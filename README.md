@@ -179,17 +179,3 @@ Backup rotation
 Logging system	
 Dry run mode	
 Error handling	
-
-Developed by: Puppala Satya
-College: KIET, JNTUK
-
-yaml
-Copy code
-
----
-
-If you want, I can now also:
-
- Create a **PowerPoint (PPT)**  
- Create a **Demo Script** for your viva  
- Create **GitHub commit messages** and final structure  
